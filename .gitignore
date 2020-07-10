@@ -1,2 +1,6 @@
 sequence-be/app/__pycache__/
 .*
+sequence-be/bin/
+sequence-be/include/
+sequence-be/lib/
+sequence-be/pyvenv.cfg
